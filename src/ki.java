@@ -1,5 +1,5 @@
-public class TA {
+public class ki {
     public static void main(String[] args) {
-        4
+        
     }
 }
